@@ -1,0 +1,16 @@
+#intro {
+    background-color: rgb(29, 194, 43);
+}
+body {
+    background-color: palevioletred;
+    text-align: center;
+}
+a:hover {
+    color: rgb(29, 194, 43)
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#subtext {
+    font-size: small;
+}
